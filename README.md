@@ -1,3 +1,3 @@
 # d3
 
-Coursework Sample
+Coursework
